@@ -11,3 +11,6 @@ https://github.com/jinwish/WishProject/tree/master/IM_WBText
 
 FBXExportTool
 https://github.com/jinwish/WishProject/tree/master/3DMAX_FBXExportTool
+
+Polygon optimization Tool
+https://github.com/jinwish/WishProject/tree/master/3DMAX_OptiMesh
